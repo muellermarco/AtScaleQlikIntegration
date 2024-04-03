@@ -1,4 +1,4 @@
-###AtScale Qlik Script generator
+##AtScale Qlik Script generator
 
 This notebooks helps to create a qlik script an uploads it into the qlik app on your qlik saas tenant.
 
